@@ -826,6 +826,9 @@ Typical cost ranges by build complexity:
 **Free budget tools:**
 - [Costumary Budget Calculator](https://www.costumary.com/tools/budget-calculator) - Pre-loaded templates for armor, sewn, and mixed builds with real material prices. No account needed.
 - [CostumeCalc](https://www.costumecalc.com/) - Fabric and foam calculators for estimating material quantities.
+- [EchtCosplay Budget Calculator](https://echtcosplay.de/tools/budget-rechner/) - Free browser cosplay budget tracker with category breakdown and group cost split. No account; runs client-side.
+- [EchtCosplay Fabric Calculator](https://echtcosplay.de/tools/stoffrechner/) - Estimates fabric yardage for circle skirts, cloaks, gathered skirts, and panels (width, seam allowance, waste, cost). Client-side, no signup.
+- [EchtCosplay Prop Scale Calculator](https://echtcosplay.de/tools/prop-skalierung/) - Scales swords/staves/shields to your height; printable cm/inch table and shareable link. Free, browser-only.
 - [AgentCalc Cosplay Planner](https://agentcalc.com/cosplay-costume-planner) - Schedule and budget planning tool.
 
 ### Convention Tracking
