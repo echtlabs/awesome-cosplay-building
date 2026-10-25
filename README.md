@@ -829,6 +829,8 @@ Typical cost ranges by build complexity:
 - [EchtCosplay Budget Calculator](https://echtcosplay.de/tools/budget-rechner/) - Free browser cosplay budget tracker with category breakdown and group cost split. No account; runs client-side.
 - [EchtCosplay Fabric Calculator](https://echtcosplay.de/tools/stoffrechner/) - Estimates fabric yardage for circle skirts, cloaks, gathered skirts, and panels (width, seam allowance, waste, cost). Client-side, no signup.
 - [EchtCosplay Prop Scale Calculator](https://echtcosplay.de/tools/prop-skalierung/) - Scales swords/staves/shields to your height; printable cm/inch table and shareable link. Free, browser-only.
+- [EchtCosplay Wig Length Guide](https://echtcosplay.de/tools/peruecken-laenge/) - Free browser guide: enter your height and wig length (e.g. 60/80/100 cm) to see about where the tips fall. Client-side, no signup.
+- [EchtCosplay Shoe Size Converter](https://echtcosplay.de/tools/schuhgroessen-umrechner/) - Converts foot length ↔ EU/UK/US sizes and shows required insole length for shops that only list inner length. Free, browser-only.
 - [AgentCalc Cosplay Planner](https://agentcalc.com/cosplay-costume-planner) - Schedule and budget planning tool.
 
 ### Convention Tracking
