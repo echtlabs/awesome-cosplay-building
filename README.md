@@ -1031,4 +1031,4 @@ This work is dedicated to the public domain under CC0 1.0. Use it however you wa
 
 ---
 
-<sub>Maintained by [Costumary](https://www.costumary.com)</sub>
+<sub>Maintained by [EchtCosplay](http://echtcosplay.de/)</sub>
